@@ -3,7 +3,7 @@
 Zamonaviy **Geometric Balance** dizayn uslubiga ega, juda tez va silliq ishlaydigan HTML5 Canvas va React asosida yaratilgan Ping Pong o'yini.
 
 ## 🎮 O'yin haqida
-
+ live preview: https://sanjarbek404.github.io/Ultra-Ping/
 Klassik Ping Pong o'yinining qayta ishlangan, kiberpank va neon detallariga boy zamonaviy ko'rinishi. O'yin 60+ FPS (maksimal ekranning kadrlar tezligida) ishlashiga mo'ljallangan bo'lib, zarrachalar (particles) va ekran tebranishi (screen shake) kabi nozik "Game Feel" effektlarini o'z ichiga oladi.
 
 ### Asosiy xususiyatlar:
